@@ -1,11 +1,11 @@
 title: Daniel Sanchez # your name (or website title) here
 logo: "images/Image Linkedin.jpeg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Hola, Mi nombre es Daniel 
+  Hello, My name is Daniel and I work as a BI Analyst, I have 5+ years of experience in differents markets.
   <br><br>
   Second description 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/danielsanchez-41220180/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
